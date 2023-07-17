@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# Decentralised Car Dealership
+
+The aim for this project was to build a full-stack, blockchain-based, Web3 car dealership/marketplace.
+
+The smart contract was developed with Solidity, tested with the HardHat toolbox in TypeScript, and deployed with Ethers.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
