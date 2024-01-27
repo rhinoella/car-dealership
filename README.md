@@ -1,6 +1,6 @@
 # Decentralised Car Dealership
 
-The aim for this project was to build a full-stack, blockchain-based, Web3 car dealership/marketplace, still under progress as I have to further develop the frontend.
+The aim for this project was to build a full-stack, blockchain-based, Web3 car dealership/marketplace, still under progress as I have to further develop the frontend. The current code presents contracts as well as tests.
 
 The smart contract was developed with Solidity, tested with the HardHat toolbox in TypeScript, and deployed with Ethers.
 
